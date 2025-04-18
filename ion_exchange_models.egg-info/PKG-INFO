@@ -1,3 +1,16 @@
+Metadata-Version: 2.1
+Name: ion-exchange-models
+Version: 0.1.0
+Summary: Ion Exchange Kinetic Models
+Home-page: https://github.com/USEPA/Water_Treatment_Models
+Author: Levi Haupert, Boris Datsov, Jonathan Burkhardt
+Author-email: haupert.levi@epa.gov
+License: MIT
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Science/Research
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Scientific/Engineering
+
 # Ion Exchange Models
 
 Preliminary versions of ion exchange models.
